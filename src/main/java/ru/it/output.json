@@ -1,0 +1,39 @@
+{
+  "Pilot2": {
+    "name": "Pilot2",
+    "flightTimeByMonth": {
+      "2020 DECEMBER": 100
+    },
+    "overtimeMonths": [],
+    "overtimeWeeks": [],
+    "overtimeDays": []
+  },
+  "Pilot1": {
+    "name": "Pilot1",
+    "flightTimeByMonth": {
+      "2021 JANUARY": 240,
+      "2021 DECEMBER": 6660,
+      "2020 DECEMBER": 6640
+    },
+    "overtimeMonths": [
+      "2020 DECEMBER"
+    ],
+    "overtimeWeeks": [],
+    "overtimeDays": [
+      "2020-12-02",
+      "2020-12-04",
+      "2020-12-05",
+      "2020-12-10",
+      "2020-12-11",
+      "2020-12-12",
+      "2020-12-15",
+      "2021-12-02",
+      "2021-12-04",
+      "2021-12-05",
+      "2021-12-10",
+      "2021-12-11",
+      "2021-12-12",
+      "2021-12-15"
+    ]
+  }
+}
